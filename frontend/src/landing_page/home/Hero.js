@@ -19,7 +19,7 @@ function Hero() {
         </p>
         <button
           // p-2 is padding 2% fs is font size
-          className="p-2 btn btn-primary fs-5"
+          className="p-2 btn btn-primary fs-5 mb-5"
           style={{ width: "15%", margin: "0 auto" }}
         >
           Signup Now
